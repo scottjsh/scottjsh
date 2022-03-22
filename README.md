@@ -12,6 +12,8 @@
 - 📫 How to reach me **scottjsh@naver.com**
 
 <h3 align="left">Connect with me:</h3>
+Telegram : **[@OUTSTANDAIM](https://t.me/OUTSTANDAIM)
+Discord : **[OUTSTANDAIM#4412](https://discord.com/app)**
 <p align="left">
 </p>
 
