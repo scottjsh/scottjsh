@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/scottjsh"><img src="https://github-profile-trophy.vercel.app/?username=scottjsh" alt="scottjsh" /></a> </p>
 
-- 🔭 I’m currently working on [hcs-api](https://github.com/hcs-api)
+- 🔭 I’m currently working on **[hcs-api](https://github.com/hcs-api)**
 
 - 💬 Ask me about **python, js, html**
 
