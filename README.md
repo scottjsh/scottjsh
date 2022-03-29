@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **[hcs-api](https://github.com/hcs-api)**
 
-- 💬 Ask me about **python, js, html**
+- 💬 Ask me about **python, js, html, arduino, ~~ddos~~**
 
 - 📫 How to reach me **scottjsh@naver.com**
 
