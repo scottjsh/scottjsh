@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.com/app">
-<img src="https://dcbadge.vercel.app/api/shield/947366250332426310" />
+<img src="https://dcbadge.vercel.app/api/shield/962221362238332938" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
