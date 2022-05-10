@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm OUTSTANDAIM</h1>
 <h3 align="center">I'm Korean Student Developer!</h3>
+<h4 align="center">I want to enter Korea Digital Media High School.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scottjsh&label=Profile%20Views&color=00ff00&style=flat" alt="scottjsh" /> </p>
 
