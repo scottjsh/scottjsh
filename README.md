@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OUTSTANDAIM</h1>
+<h1 align="center">Hi 👋, I'm OSA2959</h1>
 <h3 align="center">I'm Korean Student Developer!</h3>
 <h4 align="center">I want to enter Korea Digital Media High School.</h4>
 
