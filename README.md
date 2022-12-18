@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scottjsh&label=Profile%20Views&color=00ff00&style=flat" alt="scottjsh" /> </p>
 
-- 🔭 I’m currently working on **[hcs-api](https://github.com/hcs-api)**
+- 🔭 I’m currently working on **[hcs-api](https://github.com/hcs-api)**, **[VALTracker](https://github.com/scottjsh/DesktopClient)**
 
 - 💬 Ask me about **python, js, html, arduino, ~~DDoS~~, ~~RAT~~ etc**
 
