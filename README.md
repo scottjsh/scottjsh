@@ -24,4 +24,4 @@
 <p>&nbsp;<a href="https://github.com/scottjsh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scottjsh&show_icons=true&theme=synthwave&locale=en" alt="scottjsh" /></p>
 
 [![코드트리|실력진단-scottjsh](https://banner.codetree.ai/v1/banner/scottjsh)](https://www.codetree.ai/profiles/scottjsh)
-<p align="left"> <a href="https://github.com/scottjsh"><img src="https://github-profile-trophy.vercel.app/api?username=scottjsh&theme=dark&show_icons=true" alt="scottjsh" /></a> </p>
+<p align="left"> <a href="https://github.com/scottjsh"><img src="https://github-profile-trophy.vercel.app/api?username=scottjsh&theme=dark&show_icons=true&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="scottjsh" /></a> </p>
