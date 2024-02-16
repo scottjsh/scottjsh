@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Usermode</h1>
-<h3 align="center">I'm Korean Student Developer!</h3>
+<h3 align="center">I'm Beginner Developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scottjsh&label=Profile%20Views&color=00ff00&style=flat" alt="scottjsh" /> </p>
 
-- 🔭 I’m currently working on **[hcsapi](https://github.com/hcsapi)**, **[VALTracker](https://github.com/scottjsh/DesktopClient)**
+- 🔭 My work : **[hcsapi](https://github.com/hcsapi)**, **[VALTracker](https://github.com/scottjsh/DesktopClient)**
 
 - 💬 Ask me about **C, python, js, html, php, arduino, ~~DDoS~~, ~~RAT~~ etc**
 
-- 📫 How to reach me **scottjsh@naver.com**
+- 📫 How to reach me : **scottjsh@whitesky.kr**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/scottjsh" target="_blank">
