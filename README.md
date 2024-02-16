@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usermode</h1>
-<h3 align="center">I'm Beginner Developer!</h3>
+<h2 align="center">I'm Beginner Developer!</h2>
+<h3 align="center">Shoot for the moon. Even if you miss, you'll land among the stars.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scottjsh&label=Profile%20Views&color=00ff00&style=flat" alt="scottjsh" /> </p>
 
