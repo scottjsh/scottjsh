@@ -20,7 +20,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.com/app">
-<img src="https://dcbadge.vercel.app/api/shield/966469738026901534" />
+<img src="https://dcbadge.limes.pink/api/shield/966469738026901534" />
 </a>
 
 
