@@ -11,6 +11,10 @@
 
 - 📫 How to reach me : **scottjsh@whitesky.kr**
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/scottjsh"/>
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/scottjsh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
