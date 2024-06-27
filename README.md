@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : **[scottjsh@whitesky.kr](mailto:scottjsh@whitesky.kr)**
 
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/scottjsh">
   <img src="https://render.gitanimals.org/farms/scottjsh"/>
 </a>
 
