@@ -7,9 +7,7 @@
 
 - 🔭 My work : **[ValoAssist](https://github.com/scottjsh/ValoAssist)**, **[ValoStore](https://github.com/scottjsh/ValoStore)**_(private)_, **[ValoScrim](https://github.com/scottjsh/ValoScrim)**, **[ValoStore_web](https://github.com/scottjsh/ValoStore_web)**, **[hcsapi](https://github.com/hcsapi)**, **[VALTracker](https://github.com/scottjsh/DesktopClient)**
 
-- 💬 Ask me about **C, python, js, ~~DDoS~~, ~~RAT~~ etc**
-
-- 📫 How to reach me : **scottjsh@whitesky.kr**
+- 📫 How to reach me : **[scottjsh@whitesky.kr](mailto:scottjsh@whitesky.kr)**
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/scottjsh"/>
