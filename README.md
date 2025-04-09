@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scottjsh&label=Profile%20Views&color=00ff00&style=flat" alt="scottjsh" /> </p>
 
-- 🔭 My work : **[ValoAssist](https://github.com/scottjsh/ValoAssist)**, **[ValoStore](https://github.com/scottjsh/ValoStore)**_(private)_, **[ValoScrim](https://github.com/scottjsh/ValoScrim)**, **[ValoStore_web](https://github.com/scottjsh/ValoStore_web)**, **[hcsapi](https://github.com/hcsapi)**, **[VALTracker](https://github.com/scottjsh/DesktopClient)**
+- 🔭 My work : **[hcsapi](https://github.com/hcsapi)**, **[ValoAssist](https://github.com/scottjsh/ValoAssist)**, **[ValoStore](https://github.com/scottjsh/ValoStore)**_(private)_, **[ValoScrim](https://github.com/scottjsh/ValoScrim)**, **[ValoStore_web](https://github.com/scottjsh/ValoStore_web)**
 
 - 📫 How to reach me : **[github@whitesky.kr](mailto:github@whitesky.kr)**
 
