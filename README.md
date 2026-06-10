@@ -27,6 +27,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/scottjsh"><img src="https://github-profile-trophy.vercel.app/api?username=scottjsh&rank=SECRET,SSS,SS,S,AAA,AA,A&no-frame=true&column=4&margin-w=15&margin-h=15" alt="scottjsh" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/scottjsh"><img src="https://github-profile-trophy.vercel.app/api?username=scottjsh&rank=SECRET,SSS,SS,S,AAA,AA,A&no-frame=true&column=4&margin-w=15&margin-h=15" alt="scottjsh" /></a> </p> -->
 
-<p>&nbsp;<a href="https://github.com/scottjsh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scottjsh&show_icons=true&theme=synthwave&locale=en" alt="scottjsh" /></p>
+<!-- <p>&nbsp;<a href="https://github.com/scottjsh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scottjsh&show_icons=true&theme=synthwave&locale=en" alt="scottjsh" /></p> -->
