@@ -9,9 +9,11 @@
 
 - 📫 How to reach me : **[github@whitesky.kr](mailto:github@whitesky.kr)**
 
+<!--
 <a href="https://github.com/git-goods/gitanimals">
   <img src="https://render.gitanimals.org/farms/scottjsh"/>
 </a>
+-->
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/scottjsh" target="_blank">
