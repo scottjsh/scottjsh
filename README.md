@@ -6,7 +6,7 @@
 
 - 🔭 My work : **[hcsapi](https://github.com/hcsapi)**, **[ValoAssist](https://github.com/scottjsh/ValoAssist)**, **[ValoStore](https://github.com/scottjsh/ValoStore)**_(private)_, **[ValoScrim](https://github.com/scottjsh/ValoScrim)**, **[ValoStore_web](https://github.com/scottjsh/ValoStore_web)**
 
-- 📫 How to reach me : **[github@whitesky.kr](mailto:github@whitesky.kr)**
+- 📫 How to reach me : **[scottjsh@whitesky.kr](mailto:scottjsh@whitesky.kr)**
 
 <!--
 <a href="https://github.com/git-goods/gitanimals">
