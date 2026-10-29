@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Usermode</h1>
-<h2 align="center">Am I Developer?</h2>
+<h1 align="center">Hi 👋, I'm SEHYUN JUN</h1>
 <h2 align="center">Shoot for the moon. Even if you miss, you'll land among the stars.</h2>
 <h3 align="center"></h3>
 
